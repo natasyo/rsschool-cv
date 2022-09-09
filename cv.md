@@ -3,7 +3,8 @@
 **email:** natasyo23@gmail.com
 
 **номер телефона:** +375298275199
-[GitHub]https://github.com/natasyo
+
+[GitHub] (https://github.com/natasyo)
 
 ## Обо мне
 Моя цель стать frontend  разработсиком. Изучаю новые технологии. Работала верстальщиком.
