@@ -4,7 +4,7 @@
 
 **номер телефона:** +375298275199
 
-**GitHub: **[natasyo](https://github.com/natasyo)
+**GitHub:** [natasyo](https://github.com/natasyo)
 
 ## Обо мне
 Моя цель стать frontend  разработсиком. Изучаю новые технологии. Работала верстальщиком.
