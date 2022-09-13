@@ -11,7 +11,7 @@
 
 ## Навыки
 * HTML
-* CSS
+* CSS 
 * JavaScript (basic)
 * jQuery
 * vue (basic)
