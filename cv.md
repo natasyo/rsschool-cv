@@ -11,7 +11,7 @@
 
 ## Навыки
 * HTML
-* CSS
+* CSS 
 * JavaScript (basic)
 * jQuery
 * vue (basic)
@@ -27,8 +27,8 @@
 javascrip
 function lovefunc(flower1, flower2){
   return (flower1+ flower2) % 2===1
-}
-```
+} 
+ ```
 
 
 ## Опыт
